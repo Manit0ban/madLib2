@@ -1,0 +1,46 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+
+
+body {
+    width: 600px;
+    margin: 25px auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+
+input {
+    background-color: black;
+    color: white;
+}
+
+button {
+    background-color: orangered;
+}
+
+button:hover {
+background-color: black;
+color: white;
+}
+
+#target {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input {
+    color: rgb(255, 255, 255);
+    border: none
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+input:hover {
+    color: orangered;
+}
